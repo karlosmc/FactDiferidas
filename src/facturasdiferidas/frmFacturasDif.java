@@ -201,7 +201,7 @@ public String leer(){
         });
 
         rbtAgencia.setSelected(true);
-        rbtAgencia.setText("Agencia");
+        rbtAgencia.setText("ALMACENES");
         rbtAgencia.addChangeListener(new javax.swing.event.ChangeListener() {
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
                 rbtAgenciaStateChanged(evt);
